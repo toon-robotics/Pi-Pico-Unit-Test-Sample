@@ -1,6 +1,6 @@
 # Pi-Pico-Unit-Test-Sample
 
-## Englis ver.
+## English ver.
 
 This is a sample project for unit testing a Raspberry Pi Pico with Platform IO.
 More details can be found at the following link.  
